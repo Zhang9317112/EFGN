@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="（newcegatsr2）zhangmj@192.168.8.4:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="(3hao)zhangmj@192.168.8.7:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangmj" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(cegatsrnew)zhangmj@192.168.8.7:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangmj/hyperspectralSR/CEGATSR" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(competition 5)root@region-41.seetacloud.com:10570 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(datest)root@region-41.seetacloud.com:50502 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(gssr)zhangmj@101.35.55.30:35036 password (7)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(hyperzude)root@region-8.autodl.pro:49408 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(largem)root@region-9.autodl.pro:37629 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(linshide)root@region-8.autodl.pro:24283 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(testmodel)root@region-8.autodl.pro:25356 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="(train3)root@region-41.seetacloud.com:35666 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="branch 2.0">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="branch 2.02">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="branch code2">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="branch swsrt">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="brandnew">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cdcr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mangomei98@101.35.55.30:20028 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="my bsrn">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@123.125.240.150:44737 password（infer）">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@123.125.240.150:54111 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.seetacloud.com:57585 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-8.autodl.pro:44798 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="saldrn">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:25036 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:25036 password (cegatsr2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangmj/hyperspectralSR/CEGATSR" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:25036 password (dualsr2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:35036 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:35036 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:35036 password (CEGATSR)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangmj/hyperspectralSR/CEGATSR" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:35036 password (DUALSR)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:35036 password (MCNET)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@101.35.55.30:35036 password (PDENET)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangmj@192.168.8.7:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangmj" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="（competition 1）root@region-41.seetacloud.com:39725 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="（linshi22）root@region-8.autodl.pro:40491 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="（linshi2）root@region-8.autodl.pro:28093 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="（llm）root@region-9.autodl.pro:48382 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="（newcegatsr2）zhangmj@192.168.8.4:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangmj/hyperspectralSR/CEGATSR" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="（test2）root@connect.westc.gpuhub.com:28701 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cegatsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
